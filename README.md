@@ -1,7 +1,4 @@
 # Game Industry Analysis
-First project created during the AI Bootcamp.
-
-## Overview
 Analyze game industry data to determine which game genre and platform should the company develop their next game on.
 
 **Section1_Proj.ipynb** - Contains the full code of data analysis (Written in Korean)   
